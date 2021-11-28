@@ -1,4 +1,4 @@
-#  Convert into typescript project follow the step
+#  Convert Svelte Project into TypeScript project follow the step
 
 
 - install degit
